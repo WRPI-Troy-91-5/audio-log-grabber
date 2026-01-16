@@ -1,2 +1,2 @@
-# audio-log-grabber
-A python script to grab a specified time range audio log from the WRPI audio logger
+# WRPI Audio Log Grabber
+A Python script to search for, clip, and combine various log files to make a single log from a specified time/date range
